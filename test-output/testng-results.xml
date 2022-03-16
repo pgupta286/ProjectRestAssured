@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="7931" started-at="2022-03-16T03:57:18Z" finished-at="2022-03-16T03:57:26Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="7931" started-at="2022-03-16T03:57:18Z" finished-at="2022-03-16T03:57:26Z">
+      <class name="Rest_Project.Project">
+        <test-method status="PASS" signature="CreateUser(org.testng.ITestContext)[pri:0, instance:Rest_Project.Project@4ddced80]" name="CreateUser" duration-ms="2641" started-at="2022-03-16T03:57:18Z" finished-at="2022-03-16T03:57:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@795cd85e]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateUser -->
+        <test-method status="PASS" signature="DeleteUser(org.testng.ITestContext)[pri:0, instance:Rest_Project.Project@4ddced80]" name="DeleteUser" duration-ms="1295" started-at="2022-03-16T03:57:21Z" finished-at="2022-03-16T03:57:22Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@795cd85e]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DeleteUser -->
+        <test-method status="PASS" signature="LoginUser(org.testng.ITestContext)[pri:0, instance:Rest_Project.Project@4ddced80]" name="LoginUser" duration-ms="1444" started-at="2022-03-16T03:57:22Z" finished-at="2022-03-16T03:57:24Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@795cd85e]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginUser -->
+        <test-method status="PASS" signature="LogoutUser()[pri:0, instance:Rest_Project.Project@4ddced80]" name="LogoutUser" duration-ms="1270" started-at="2022-03-16T03:57:24Z" finished-at="2022-03-16T03:57:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogoutUser -->
+        <test-method status="PASS" signature="ModifyUser(org.testng.ITestContext)[pri:0, instance:Rest_Project.Project@4ddced80]" name="ModifyUser" duration-ms="1244" started-at="2022-03-16T03:57:25Z" finished-at="2022-03-16T03:57:26Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@795cd85e]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ModifyUser -->
+      </class> <!-- Rest_Project.Project -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
